@@ -8,6 +8,7 @@ export const engData = {
     heroText1: "Frontend Yazılım Geliştirici...",
     heroText2: "Mükemmel kullanıcı deneyimleriyle sağlam ve ölçeklenebilir ön uç ürünleri üretmekten hoşlanırım.",
     skillText: "Yetenekler",
+    profilesHeader: "Profil",
     basicInformation: "Temel Bilgiler",
     projectsTitle : "Projeler",
     projects: [

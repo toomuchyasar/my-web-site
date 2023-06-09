@@ -8,7 +8,7 @@ const ProjectCard = (props) => {
   const { item } = props
 
   return (
-    <div className={`${lightMode ? "bg-[#FFFFFF]" : "bg-[#2B2727]"} flex items-center h-72 w-full gap-x-10 rounded-lg`}>
+    <div className={`${lightMode ? "bg-[#FFFFFF]" : "bg-[#2B2727]"} flex items-center h-72 w-full gap-x-10 rounded-lg shadow-2xl mt-5`}>
       <div className='h-full w-72 '>
         <img className='h-full w-full object-cover rounded-l-lg ' src={item.photo} />
       </div>

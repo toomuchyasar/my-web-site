@@ -8,7 +8,7 @@ export const trData = {
     heroText1: "I am a Frontend Developer...",
     heroText2: "...who likes to craft solid and scalable frontend products with great user experiences.",
     skillText: "Skills",
-    profilesHeader: "Profil",
+    profilesHeader: "Profile",
     basicInformation: "Basic Information",
     projectsTitle : "Projects",
     projects: [
