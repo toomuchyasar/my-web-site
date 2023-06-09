@@ -30,9 +30,9 @@ export const trData = {
     ],
 
     birthDate: "Date of Birth",
-    city: "İkamet Şehri",
-    education: "Eğitim Durumu",
-    preferredRole: "Tercih Ettiği Rol",
+    city: "City",
+    education: "Education Status",
+    preferredRole: "Preferred Role",
     graduation: "Eskişehir Osmangazi Üniversitesi, Makine Mühendisliği, 2019",
     aboutMe: "About Me",
     aboutP1: "Hi, i'm Yasar. I'm living in Izmir. I graduated from Eskisehir Osmangazi University. I worked as mechanical engineer for 2 years. But now i want to be Developer.",
